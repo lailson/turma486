@@ -24,3 +24,6 @@ O que será avaliado:
 * O grupo deve ter até 3 alunos.
 * Cada grupo deve fazer um pull request nesse projeto para colocar o nome dos integrantes da equipe e o link do projeto do github
 * Não pode haver projetos parecidos.
+
+# Prazo 
+Dia 15/07
