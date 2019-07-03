@@ -1,7 +1,7 @@
 # turma486
 Projeto para turma 486
 
-#Trabalho valendo nota:
+# Trabalho valendo nota:
 Você deve escolher uma das três opções:
 
 1. Criar um sistema utilizando Vuejs. O sistema fica ao seu critério.
@@ -20,7 +20,7 @@ O que será avaliado:
 * Clareza
 * Importância/Relevância
 
-#Obersvação:
+# Obersvação:
 * O grupo deve ter até 3 alunos.
 * Cada grupo deve fazer um pull request nesse projeto para colocar o nome dos integrantes da equipe e o link do projeto do github
 * Não pode haver projetos parecidos.
