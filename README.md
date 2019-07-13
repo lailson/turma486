@@ -13,14 +13,14 @@ Projeto para turma 486
 		
 2. Baixe as dependecias
 ```bash
-  npm install ou npm i
+  npm i
   npm run dev
 ```
 3. Baixando dependecias do FrontEnd
 ```bash
   cd ..
   cd FrontEnd
-  npm install ou npm i
+  npm i
   npm rum serve
 ```
 		
