@@ -86,7 +86,7 @@ router.route('/produtos')
                 res.send('Erro ao tentar Selecionar Todos os produtos...: ' + error);
                            
             res.json(produtos);
-        });
+        }).sort('-createdAt');
     });
 
     //Rotas que irão terminar em '/produtos/:produto_id' (servir tanto para: GET, PUT & DELETE: id):

@@ -17,4 +17,8 @@ export default {
 
     },
 
+    apagar: () =>{
+        return http.delete('produtos', {data: produto} )
+    }
+
 } 

@@ -14,12 +14,13 @@ var autoIncrement = require('mongoose-auto-increment');
  * 
  */
 
-var ProdutoSchema = new Schema({ 
-   
+var ProdutoSchema = new Schema({        
     descricao: String,
     referencia: String,
     preco: Number,
     estoque: Number
+    
+}, {
+    timestamps: true,
 });
-
 module.exports = mongoose.model('Produto', ProdutoSchema);

@@ -114,6 +114,15 @@ export default {
     editar(produto){
       this.produto = produto
 
+    },
+    remover(produto){
+      if(confirm('Deseja apagar o produto?')){
+        Produto.apagar(this.produto).then(resposta=> {
+
+      })
+
+      }
+      
     }
   }
 }
